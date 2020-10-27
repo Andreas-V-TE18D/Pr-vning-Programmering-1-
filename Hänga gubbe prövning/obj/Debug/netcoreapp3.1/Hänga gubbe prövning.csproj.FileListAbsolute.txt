@@ -1,0 +1,13 @@
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.exe
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.deps.json
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.runtimeconfig.json
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.runtimeconfig.dev.json
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.dll
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\bin\Debug\netcoreapp3.1\Hänga gubbe prövning.pdb
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.csprojAssemblyReference.cache
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.AssemblyInfoInputs.cache
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.AssemblyInfo.cs
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.csproj.CoreCompileInputs.cache
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.dll
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.pdb
+C:\Users\andreas.vins\source\repos\Prövning\Hänga gubbe prövning\obj\Debug\netcoreapp3.1\Hänga gubbe prövning.genruntimeconfig.cache
